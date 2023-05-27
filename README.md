@@ -32,7 +32,7 @@ curl -sSL https://js.dayplus.xyz/https://raw.githubusercontent.com/6dylan6/jdpro
 国内机用下面指令（带代理）：
 
 ```
-ql repo https://ghproxy.com/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://ghproxy.com/https://github.com/wizardwangjiang181/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
 
 ```
 如默认代理ghproxy.com 拉不动，换备用的 js.nbplay.site 试试
